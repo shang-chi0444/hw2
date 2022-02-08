@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  .box{
+    display: flex;
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+  }
+  .box__row img{
+    width: 300px;
+    height: 300px;
+    float: left;
+  }
+  .box__column img{
+    width: 400px;
+    height: 600px;
+  }
+  .box__img img{
+    float: left;
+  }
+  .box__hex img{
+    float: left;
+    width: 360px;
+    height: 600px;
+  }
